@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019\\Visual Basic\\Variables\\1.18NuevaFecha\\1.18NuevaFecha.vbproj": {}
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.18NuevaFecha\\1.18NuevaFecha.vbproj": {}
   },
   "projects": {
-    "D:\\2019\\Visual Basic\\Variables\\1.18NuevaFecha\\1.18NuevaFecha.vbproj": {
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.18NuevaFecha\\1.18NuevaFecha.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019\\Visual Basic\\Variables\\1.18NuevaFecha\\1.18NuevaFecha.vbproj",
+        "projectUniqueName": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.18NuevaFecha\\1.18NuevaFecha.vbproj",
         "projectName": "1.18NuevaFecha",
-        "projectPath": "D:\\2019\\Visual Basic\\Variables\\1.18NuevaFecha\\1.18NuevaFecha.vbproj",
+        "projectPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.18NuevaFecha\\1.18NuevaFecha.vbproj",
         "packagesPath": "C:\\Users\\Sergio-Rozicki\\.nuget\\packages\\",
-        "outputPath": "D:\\2019\\Visual Basic\\Variables\\1.18NuevaFecha\\obj\\",
+        "outputPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.18NuevaFecha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

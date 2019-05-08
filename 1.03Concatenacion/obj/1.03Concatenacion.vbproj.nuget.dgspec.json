@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019\\Visual Basic\\Variables\\1.03Concatenacion\\1.03Concatenacion.vbproj": {}
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.03Concatenacion\\1.03Concatenacion.vbproj": {}
   },
   "projects": {
-    "D:\\2019\\Visual Basic\\Variables\\1.03Concatenacion\\1.03Concatenacion.vbproj": {
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.03Concatenacion\\1.03Concatenacion.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019\\Visual Basic\\Variables\\1.03Concatenacion\\1.03Concatenacion.vbproj",
+        "projectUniqueName": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.03Concatenacion\\1.03Concatenacion.vbproj",
         "projectName": "1.03Concatenacion",
-        "projectPath": "D:\\2019\\Visual Basic\\Variables\\1.03Concatenacion\\1.03Concatenacion.vbproj",
+        "projectPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.03Concatenacion\\1.03Concatenacion.vbproj",
         "packagesPath": "C:\\Users\\Sergio-Rozicki\\.nuget\\packages\\",
-        "outputPath": "D:\\2019\\Visual Basic\\Variables\\1.03Concatenacion\\obj\\",
+        "outputPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.03Concatenacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2019\\Visual Basic\\Variables\\1.12Redondeo\\1.12Redondeo.vbproj",
+      "projectUniqueName": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.12Redondeo\\1.12Redondeo.vbproj",
       "projectName": "1.12Redondeo",
-      "projectPath": "D:\\2019\\Visual Basic\\Variables\\1.12Redondeo\\1.12Redondeo.vbproj",
+      "projectPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.12Redondeo\\1.12Redondeo.vbproj",
       "packagesPath": "C:\\Users\\Sergio-Rozicki\\.nuget\\packages\\",
-      "outputPath": "D:\\2019\\Visual Basic\\Variables\\1.12Redondeo\\obj\\",
+      "outputPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.12Redondeo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

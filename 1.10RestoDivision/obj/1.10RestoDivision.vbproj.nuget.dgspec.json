@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019\\Visual Basic\\Variables\\1.10RestoDivision\\1.10RestoDivision.vbproj": {}
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.10RestoDivision\\1.10RestoDivision.vbproj": {}
   },
   "projects": {
-    "D:\\2019\\Visual Basic\\Variables\\1.10RestoDivision\\1.10RestoDivision.vbproj": {
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.10RestoDivision\\1.10RestoDivision.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019\\Visual Basic\\Variables\\1.10RestoDivision\\1.10RestoDivision.vbproj",
+        "projectUniqueName": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.10RestoDivision\\1.10RestoDivision.vbproj",
         "projectName": "1.10RestoDivision",
-        "projectPath": "D:\\2019\\Visual Basic\\Variables\\1.10RestoDivision\\1.10RestoDivision.vbproj",
+        "projectPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.10RestoDivision\\1.10RestoDivision.vbproj",
         "packagesPath": "C:\\Users\\Sergio-Rozicki\\.nuget\\packages\\",
-        "outputPath": "D:\\2019\\Visual Basic\\Variables\\1.10RestoDivision\\obj\\",
+        "outputPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.10RestoDivision\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

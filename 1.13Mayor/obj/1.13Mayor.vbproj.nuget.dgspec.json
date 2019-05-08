@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019\\Visual Basic\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {}
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.13Mayor\\1.13Mayor.vbproj": {}
   },
   "projects": {
-    "D:\\2019\\Visual Basic\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {
+    "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.13Mayor\\1.13Mayor.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019\\Visual Basic\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
+        "projectUniqueName": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.13Mayor\\1.13Mayor.vbproj",
         "projectName": "1.13Mayor",
-        "projectPath": "D:\\2019\\Visual Basic\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
+        "projectPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.13Mayor\\1.13Mayor.vbproj",
         "packagesPath": "C:\\Users\\Sergio-Rozicki\\.nuget\\packages\\",
-        "outputPath": "D:\\2019\\Visual Basic\\Variables\\1.13Mayor\\obj\\",
+        "outputPath": "D:\\2019\\Visual Basic\\GitHub\\Variables\\normal10as\\pg2-s19e202-variables-operaciones-sergiorozicki\\1.13Mayor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
