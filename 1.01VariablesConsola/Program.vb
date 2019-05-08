@@ -3,7 +3,7 @@ Imports System
 Module VariablesConsola
     Sub Main(args As String())
 
-        Dim nombre, b As String
+        Dim nombre As String
         Dim apellido As String
         Dim fecha_nacimiento As Date
 
