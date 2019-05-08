@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\Variables\1.16Reloj\bin\Debug\netcoreapp2.1\1.16Reloj.deps.json
+D:\2019\Visual Basic\Variables\1.16Reloj\bin\Debug\netcoreapp2.1\1.16Reloj.runtimeconfig.json
+D:\2019\Visual Basic\Variables\1.16Reloj\bin\Debug\netcoreapp2.1\1.16Reloj.runtimeconfig.dev.json
+D:\2019\Visual Basic\Variables\1.16Reloj\bin\Debug\netcoreapp2.1\1.16Reloj.dll
+D:\2019\Visual Basic\Variables\1.16Reloj\bin\Debug\netcoreapp2.1\1.16Reloj.pdb
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.AssemblyInfo.vb
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.dll
+D:\2019\Visual Basic\Variables\1.16Reloj\obj\Debug\netcoreapp2.1\1.16Reloj.pdb

@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\bin\Debug\netcoreapp2.1\1.17AjustarReloj.deps.json
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\bin\Debug\netcoreapp2.1\1.17AjustarReloj.runtimeconfig.json
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\bin\Debug\netcoreapp2.1\1.17AjustarReloj.runtimeconfig.dev.json
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\bin\Debug\netcoreapp2.1\1.17AjustarReloj.dll
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\bin\Debug\netcoreapp2.1\1.17AjustarReloj.pdb
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.AssemblyInfo.vb
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.dll
+D:\2019\Visual Basic\Variables\1.17AjustarReloj\obj\Debug\netcoreapp2.1\1.17AjustarReloj.pdb

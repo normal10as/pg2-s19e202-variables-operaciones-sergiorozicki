@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\Variables\1.14Cadenas1\bin\Debug\1.14Cadenas1.exe.config
+D:\2019\Visual Basic\Variables\1.14Cadenas1\bin\Debug\1.14Cadenas1.exe
+D:\2019\Visual Basic\Variables\1.14Cadenas1\bin\Debug\1.14Cadenas1.pdb
+D:\2019\Visual Basic\Variables\1.14Cadenas1\bin\Debug\1.14Cadenas1.xml
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\_1._14Cadenas1.Resources.resources
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.vbproj.GenerateResource.cache
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.exe
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.xml
+D:\2019\Visual Basic\Variables\1.14Cadenas1\obj\Debug\1.14Cadenas1.pdb

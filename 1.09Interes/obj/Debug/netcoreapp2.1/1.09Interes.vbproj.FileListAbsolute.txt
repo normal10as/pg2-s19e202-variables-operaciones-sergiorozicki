@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\Variables\1.09Interes\bin\Debug\netcoreapp2.1\1.09Interes.deps.json
+D:\2019\Visual Basic\Variables\1.09Interes\bin\Debug\netcoreapp2.1\1.09Interes.runtimeconfig.json
+D:\2019\Visual Basic\Variables\1.09Interes\bin\Debug\netcoreapp2.1\1.09Interes.runtimeconfig.dev.json
+D:\2019\Visual Basic\Variables\1.09Interes\bin\Debug\netcoreapp2.1\1.09Interes.dll
+D:\2019\Visual Basic\Variables\1.09Interes\bin\Debug\netcoreapp2.1\1.09Interes.pdb
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.AssemblyInfo.vb
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.dll
+D:\2019\Visual Basic\Variables\1.09Interes\obj\Debug\netcoreapp2.1\1.09Interes.pdb
