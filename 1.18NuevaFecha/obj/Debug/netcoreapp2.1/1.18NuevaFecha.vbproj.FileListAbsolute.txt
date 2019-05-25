@@ -9,3 +9,13 @@ D:\2019\Visual Basic\Variables\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaF
 D:\2019\Visual Basic\Variables\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.AssemblyInfo.vb
 D:\2019\Visual Basic\Variables\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.dll
 D:\2019\Visual Basic\Variables\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\bin\Debug\netcoreapp2.1\1.18NuevaFecha.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\bin\Debug\netcoreapp2.1\1.18NuevaFecha.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\bin\Debug\netcoreapp2.1\1.18NuevaFecha.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\bin\Debug\netcoreapp2.1\1.18NuevaFecha.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\bin\Debug\netcoreapp2.1\1.18NuevaFecha.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.18NuevaFecha\obj\Debug\netcoreapp2.1\1.18NuevaFecha.pdb

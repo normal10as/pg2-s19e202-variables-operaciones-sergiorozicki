@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\bin\Debug\netcoreapp2.1\1.04Aritmetica.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\bin\Debug\netcoreapp2.1\1.04Aritmetica.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\bin\Debug\netcoreapp2.1\1.04Aritmetica.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\bin\Debug\netcoreapp2.1\1.04Aritmetica.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\bin\Debug\netcoreapp2.1\1.04Aritmetica.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\obj\Debug\netcoreapp2.1\1.04Aritmetica.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\obj\Debug\netcoreapp2.1\1.04Aritmetica.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\obj\Debug\netcoreapp2.1\1.04Aritmetica.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\obj\Debug\netcoreapp2.1\1.04Aritmetica.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.04Aritmetica\obj\Debug\netcoreapp2.1\1.04Aritmetica.pdb

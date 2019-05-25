@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\bin\Debug\netcoreapp2.1\1.12Redondeo.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\bin\Debug\netcoreapp2.1\1.12Redondeo.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\bin\Debug\netcoreapp2.1\1.12Redondeo.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\bin\Debug\netcoreapp2.1\1.12Redondeo.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\bin\Debug\netcoreapp2.1\1.12Redondeo.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\obj\Debug\netcoreapp2.1\1.12Redondeo.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\obj\Debug\netcoreapp2.1\1.12Redondeo.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\obj\Debug\netcoreapp2.1\1.12Redondeo.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\obj\Debug\netcoreapp2.1\1.12Redondeo.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.12Redondeo\obj\Debug\netcoreapp2.1\1.12Redondeo.pdb

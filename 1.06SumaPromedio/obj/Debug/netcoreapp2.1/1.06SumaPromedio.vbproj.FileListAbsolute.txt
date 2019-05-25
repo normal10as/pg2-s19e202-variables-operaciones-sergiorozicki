@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\bin\Debug\netcoreapp2.1\1.06SumaPromedio.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\bin\Debug\netcoreapp2.1\1.06SumaPromedio.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\bin\Debug\netcoreapp2.1\1.06SumaPromedio.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\bin\Debug\netcoreapp2.1\1.06SumaPromedio.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\bin\Debug\netcoreapp2.1\1.06SumaPromedio.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\obj\Debug\netcoreapp2.1\1.06SumaPromedio.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\obj\Debug\netcoreapp2.1\1.06SumaPromedio.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\obj\Debug\netcoreapp2.1\1.06SumaPromedio.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\obj\Debug\netcoreapp2.1\1.06SumaPromedio.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.06SumaPromedio\obj\Debug\netcoreapp2.1\1.06SumaPromedio.pdb

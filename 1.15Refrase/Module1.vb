@@ -1,17 +1,23 @@
 ﻿Module Refrase
 
     Sub Main()
-
-        Dim palabras, cortar_frase(), cortar_palabra(), resultado As String
-        Dim frase As String = "Aunque la cadena sea de oro, sirve para lo mismo."
-
-        Console.Write("Ingrese dos palabras: ")
-        palabras = Console.ReadLine()
-        cortar_frase = frase.Split(" ")
-        cortar_palabra = palabras.Split(" ")
-        Console.WriteLine(cortar_palabra(0))
-        resultado = Replace(frase, "la", "." & cortar_palabra(0) & ".")
-        Console.WriteLine(resultado)
+        Dim frase As String = " Aunque la cadena sea de oro, sirve para lo mismo."
+        Dim palabra_actual, palabra_nueva, frase_nueva As String
+        Console.WriteLine(frase)
+        Console.Write("Ingrese la palabra a reemplazar: ")
+        palabra_actual = Console.ReadLine()
+        Console.Write("Ingrese la palabra nueva: ")
+        palabra_nueva = Console.ReadLine()
+        Dim palabra_actual1 = " " + palabra_actual + " "
+        Dim palabra_nueva1 = " " + palabra_nueva + " "
+        frase_nueva = (Replace(frase, palabra_actual1, palabra_nueva1, 1, -1, 1))
+        palabra_actual1 = " " + palabra_actual + ","
+        palabra_nueva1 = " " + palabra_nueva + ","
+        frase_nueva = (Replace(frase_nueva, palabra_actual1, palabra_nueva1, 1, -1, 1))
+        palabra_actual1 = " " + palabra_actual + "."
+        palabra_nueva1 = " " + palabra_nueva + "."
+        frase_nueva = (Replace(frase_nueva, palabra_actual1, palabra_nueva1, 1, -1, 1))
+        Console.WriteLine("Frase editada: " & frase_nueva)
         Console.ReadLine()
     End Sub
 

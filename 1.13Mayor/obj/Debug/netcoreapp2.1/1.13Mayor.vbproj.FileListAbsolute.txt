@@ -9,3 +9,13 @@ D:\2019\Visual Basic\Variables\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.Assem
 D:\2019\Visual Basic\Variables\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.AssemblyInfo.vb
 D:\2019\Visual Basic\Variables\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.dll
 D:\2019\Visual Basic\Variables\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\bin\Debug\netcoreapp2.1\1.13Mayor.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\bin\Debug\netcoreapp2.1\1.13Mayor.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\bin\Debug\netcoreapp2.1\1.13Mayor.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\bin\Debug\netcoreapp2.1\1.13Mayor.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\bin\Debug\netcoreapp2.1\1.13Mayor.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.13Mayor\obj\Debug\netcoreapp2.1\1.13Mayor.pdb

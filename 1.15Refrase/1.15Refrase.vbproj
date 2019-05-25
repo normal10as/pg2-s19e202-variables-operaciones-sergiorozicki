@@ -4,9 +4,9 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38BEDF18-8669-4788-8453-848F5B6C34AA}</ProjectGuid>
+    <ProjectGuid>{F5FE8EB7-9A5F-4BD0-A745-80181CF08DBE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_1._15Refrase.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>_1._15Refrase</RootNamespace>
     <AssemblyName>1.15Refrase</AssemblyName>
     <FileAlignment>512</FileAlignment>

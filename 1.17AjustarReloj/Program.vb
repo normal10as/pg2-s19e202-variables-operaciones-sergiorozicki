@@ -4,13 +4,13 @@ Imports System.String
 Module AjustarReloj
     Sub Main(args As String())
 
-        Dim año, mes, minuto, segundo, a, b, c, d As Date
+        Dim año, mes, minuto, segundo As Date
         Dim dia, hora, ajustar As String
 
-        año = a.Now
-        mes = b.Now
-        minuto = c.Now
-        segundo = d.Now
+        año = año.Now
+        mes = mes.Now
+        minuto = minuto.Now
+        segundo = segundo.Now
         Console.Write("Ingrese dia del 1 al 31: ")
         dia = Console.ReadLine()
         Console.Write("Ingrese hora del 00 al 23: ")

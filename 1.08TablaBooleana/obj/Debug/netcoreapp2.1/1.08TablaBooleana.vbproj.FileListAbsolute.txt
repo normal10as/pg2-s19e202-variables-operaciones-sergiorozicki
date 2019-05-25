@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\bin\Debug\netcoreapp2.1\1.08TablaBooleana.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\bin\Debug\netcoreapp2.1\1.08TablaBooleana.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\bin\Debug\netcoreapp2.1\1.08TablaBooleana.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\bin\Debug\netcoreapp2.1\1.08TablaBooleana.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\bin\Debug\netcoreapp2.1\1.08TablaBooleana.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\obj\Debug\netcoreapp2.1\1.08TablaBooleana.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\obj\Debug\netcoreapp2.1\1.08TablaBooleana.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\obj\Debug\netcoreapp2.1\1.08TablaBooleana.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\obj\Debug\netcoreapp2.1\1.08TablaBooleana.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.08TablaBooleana\obj\Debug\netcoreapp2.1\1.08TablaBooleana.pdb

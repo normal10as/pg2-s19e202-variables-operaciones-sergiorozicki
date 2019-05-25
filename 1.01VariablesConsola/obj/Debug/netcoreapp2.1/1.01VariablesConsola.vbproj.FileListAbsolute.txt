@@ -9,3 +9,13 @@ D:\2019\Visual Basic\Variables\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01
 D:\2019\Visual Basic\Variables\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.AssemblyInfo.vb
 D:\2019\Visual Basic\Variables\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.dll
 D:\2019\Visual Basic\Variables\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\bin\Debug\netcoreapp2.1\1.01VariablesConsola.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\bin\Debug\netcoreapp2.1\1.01VariablesConsola.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\bin\Debug\netcoreapp2.1\1.01VariablesConsola.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\bin\Debug\netcoreapp2.1\1.01VariablesConsola.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\bin\Debug\netcoreapp2.1\1.01VariablesConsola.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.01VariablesConsola\obj\Debug\netcoreapp2.1\1.01VariablesConsola.pdb

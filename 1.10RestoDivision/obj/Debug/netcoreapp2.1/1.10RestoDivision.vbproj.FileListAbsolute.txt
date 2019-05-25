@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\bin\Debug\netcoreapp2.1\1.10RestoDivision.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\bin\Debug\netcoreapp2.1\1.10RestoDivision.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\bin\Debug\netcoreapp2.1\1.10RestoDivision.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\bin\Debug\netcoreapp2.1\1.10RestoDivision.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\bin\Debug\netcoreapp2.1\1.10RestoDivision.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\obj\Debug\netcoreapp2.1\1.10RestoDivision.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\obj\Debug\netcoreapp2.1\1.10RestoDivision.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\obj\Debug\netcoreapp2.1\1.10RestoDivision.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\obj\Debug\netcoreapp2.1\1.10RestoDivision.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.10RestoDivision\obj\Debug\netcoreapp2.1\1.10RestoDivision.pdb

@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\bin\Debug\netcoreapp2.1\1.02VariablesTipo.deps.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\bin\Debug\netcoreapp2.1\1.02VariablesTipo.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\bin\Debug\netcoreapp2.1\1.02VariablesTipo.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\bin\Debug\netcoreapp2.1\1.02VariablesTipo.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\bin\Debug\netcoreapp2.1\1.02VariablesTipo.pdb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.dll
+D:\2019\Visual Basic\GitHub\Variables\normal10as\pg2-s19e202-variables-operaciones-sergiorozicki\1.02VariablesTipo\obj\Debug\netcoreapp2.1\1.02VariablesTipo.pdb
