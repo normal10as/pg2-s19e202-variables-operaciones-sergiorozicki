@@ -10,7 +10,6 @@ Module NuevaFecha
         fecha = Console.ReadLine()
         Console.Write("Ingrese dias a sumar: ")
         dias_a_sumar = Console.ReadLine()
-        Dim TestDateTime As Date = fecha
-        Console.WriteLine("Fecha obtenida de la suma: " & TestDateTime.AddDays(dias_a_sumar))
+        Console.WriteLine("Fecha obtenida de la suma: " & fecha.AddDays(dias_a_sumar))
     End Sub
 End Module
