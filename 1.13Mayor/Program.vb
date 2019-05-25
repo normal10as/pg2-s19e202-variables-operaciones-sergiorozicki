@@ -4,7 +4,6 @@ Module Program
     Sub Main(args As String())
 
         Dim valor1, valor2, valor3, mayor1, mayor2 As Integer
-        Dim contador = 0
 
         Console.Write("Ingrese 1er valor numerico: ")
         valor1 = Console.ReadLine()
